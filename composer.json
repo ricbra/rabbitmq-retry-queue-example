@@ -1,0 +1,12 @@
+{
+    "name": "richard/rabbittest",
+    "require": {
+        "php-amqplib/php-amqplib": "^2.6"
+    },
+    "authors": [
+        {
+            "name": "Richard van den Brand",
+            "email": "richard@vandenbrand.org"
+        }
+    ]
+}
