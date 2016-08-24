@@ -29,3 +29,9 @@ Start consumer in terminal #1:
 Then publish something:
 
     $ php producer.php Insert-message-here
+
+# Management plugin:
+
+The management interface is available at http://localhost:15672/
+
+The username and password are: `guest`
